@@ -1,0 +1,5 @@
+keras==3.8.0
+tensorflow==2.18.0
+opencv-python-headless
+scikit-learn==1.6.1
+matplotlib==3.7.1

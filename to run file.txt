@@ -1,0 +1,19 @@
+# to run file in local host
+
+1)first open anaconda : run as administrator
+2) open terminal
+2.1) > install liabries:(if not installed but in our case its installed)
+pip install tensorflow==2.18.0   
+pip install matplotlib==3.7.1
+pip install scikit-learn==1.6.1
+3) enter this :streamlit run D:\CUE\DeepFake-main\Home.py 
+4) at end ctrl +c to stop 
+
+# GitHub
+1) create new respository
+respository name , public, create respository
+2) upload existinf files - commit changes
+2) name , path, url
+3) advanced setting python 3.10
+
+# for streamlit just deploy the GitHub respository
